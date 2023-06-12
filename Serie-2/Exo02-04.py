@@ -1,5 +1,5 @@
 S1 = "ab"
-S2 = "ac"
+S2 = "cd"
 def shuffle_words(str1, str2):
     Result = []
     for i in range(len(str1)+1):
